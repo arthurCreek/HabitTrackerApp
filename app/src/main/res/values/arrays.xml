@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Items will be displayed in the cheat day spinner
+    <string-array name="array_cheat_day_options">
+        <item>@string/cheat_none</item>
+        <item>@string/cheat_monday</item>
+        <item>@string/cheat_tuesday</item>
+        <item>@string/cheat_wednesday</item>
+        <item>@string/cheat_thursday</item>
+        <item>@string/cheat_friday</item>
+        <item>@string/cheat_saturday</item>
+        <item>@string/cheat_sunday</item>
+    </string-array>
+</resources>

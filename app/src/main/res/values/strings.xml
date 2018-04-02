@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project Habit Tracker</string>
+
+    //Strings for the cheat day spinner
+    <string name="cheat_none">None</string>
+    <string name="cheat_monday">Monday</string>
+    <string name="cheat_tuesday">Tuesday</string>
+    <string name="cheat_wednesday">Wednesday</string>
+    <string name="cheat_thursday">Thursday</string>
+    <string name="cheat_friday">Friday</string>
+    <string name="cheat_saturday">Saturday</string>
+    <string name="cheat_sunday">Sunday</string>
+
+    //String for menu item
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_insert_new_habits">Insert New Habits</string>
+
+    //Strings for the editor
+    <string name="category_games">Games</string>
+    <string name="category_running">Running</string>
+    <string name="category_meals">Meals</string>
+    <string name="category_describe">Describe</string>
+    <string name="category_cheat_day">Cheat Day</string>
+    <string name="hint_hours_played_week">Hours played this week</string>
+    <string name="hint_miles_ran_week">Miles ran this week</string>
+    <string name="hint_describe_week">Describe week in 1 word</string>
+    <string name="hint_meals_cooked_week">Meals cooked this week</string>
+
+    //Strings for menu editor
+    <string name="action_save">Save</string>
+
+    //String for manifest
+    <string name="editor_activity_title_new_habit">Add habits</string>
+
+</resources>
